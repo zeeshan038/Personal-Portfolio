@@ -1,6 +1,6 @@
 import React from 'react';
 import cv from '../assets/resume.png'; // Ensure the path is correct
-import img from '../assets/picofme (1).png';
+import img from '../assets/mypic.png';
 import express from '../assets/expressjs.png';
 import nodejs from '../assets/nodeJs.png';
 import mongoDb from '../assets/mongoDb.png';
